@@ -9,3 +9,4 @@ venv/
 dist/
 .DS_Store
 venv/
+greenlet==3.1.1
